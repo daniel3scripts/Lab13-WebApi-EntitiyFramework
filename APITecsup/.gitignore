@@ -1,0 +1,13 @@
+.vs
+Areas/
+Properties/
+bin/
+obj/
+fonts
+Scripts
+Content
+*.ico
+*.nuget
+*.csproj
+*.csproj.user
+*.sln

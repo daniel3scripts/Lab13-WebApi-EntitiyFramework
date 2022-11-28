@@ -1,0 +1,16 @@
+.vs
+*.nuget
+*.sln
+packages/
+Domain/Properties/
+Domain/bin/
+Domain/obj/
+Domain/*.csproj
+Service/Properties/
+Service/bin/
+Service/obj/
+Service/*.csproj
+Infraestructure/Properties/
+Infraestructure/bin/
+Infraestructure/obj/
+Infraestructure/*.csproj
